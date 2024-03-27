@@ -1,0 +1,37 @@
+.graph-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .loading {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .error {
+    font-size: 20px;
+    color: #ff0033;
+  }
+  
+  .graph-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .line-chart {
+    display: inline-block;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .axis-label {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .legend-text {
+    font-size: 14px;
+  }
+  
+  
