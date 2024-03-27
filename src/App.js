@@ -1,10 +1,10 @@
 import React from 'react';
-import PopulationGraph from './PopulationGraph';
+import PopulationChart from './PopulationChart';
 
 function App() {
   return (
     <div className="App">
-      <PopulationGraph />
+      <PopulationChart />
     </div>
   );
 }
